@@ -1,16 +1,14 @@
-## Hi there 👋
+## A bit about me
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/>  I like coding.
 
-<!--
-**YoelArcos/YoelArcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭Trying to get into cs-field.
 
-Here are some ideas to get you started:
+⚡Note-taker-enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+49 20 6C 69 6B 65 20 63 72 6F 63 6F 64 69 6C 65 73 2E 0A
+
